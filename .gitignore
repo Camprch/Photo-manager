@@ -1,0 +1,31 @@
+# --- Environnements virtuels ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Cache Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Logs / temporaires ---
+*.log
+*.tmp
+*.bak
+*.swp
+
+# --- OS / éditeurs ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Build / distribution ---
+build/
+dist/
+*.egg-info/
+
+# --- Données temporaires ---
+assets/tmp/
